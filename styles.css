@@ -1,0 +1,60 @@
+.background {
+    background-color: gray;
+
+}
+
+.tlacitko {
+    margin: 10px 0px 0px 0px;
+    padding: 20px;
+    background-color: #aba09f;
+    border: 30px #aba09f solid; 
+    border-width: 70px;
+    border-top: 20px #aba09f solid; 
+    border-bottom: 20px #aba09f solid; 
+
+
+}
+
+.round-1 {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+
+}
+
+.round-2 {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.vlajky {
+    margin: 10px 0px 0px 0px;
+    padding: 10px;
+    background-color:gray;
+
+}
+
+.odsazeni {
+    margin-left: 50px
+}
+
+.car {
+    width: 1000px;
+    margin: auto;
+}
+
+.hlavni {
+    width: 600px;
+    margin: 20px auto;
+}
+
+.stred {
+    text-align: center;
+}
+
+.kontakt {
+    border: 10px #aba09f solid;
+    border-width: 50px;
+    background-color: #aba09f;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
